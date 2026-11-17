@@ -309,9 +309,9 @@ The first result should be a spatial map of calculated reaction Gibbs energies w
 
 [4] Rodriguez, L. E. et al. (2024). “A Geological and Chemical Context for the Origins of Life on Early Earth.” Astrobiology, 24(1 Suppl.). https://doi.org/10.1089/ast.2021.0139
 
-[5] Russell, M. J. et al. (2010). “Serpentinization as a source of energy at the origin of life.” International Journal of Astrobiology. https://doi.org/10.1111/j.1472-4669.2010.00249.x
+[5] Russell, M. J., Hall, A. J., & Martin, W. (2010). “Serpentinization as a source of energy at the origin of life.” Geobiology, 8(5), 355–371. https://doi.org/10.1111/j.1472-4669.2010.00249.x
 
-[6] “Serpentinization as the source of energy, electrons, organics, catalysts, nutrients and pH gradients for the origin of LUCA and life.” (2023). Open-access review. https://pmc.ncbi.nlm.nih.gov/articles/PMC10581274/
+[6] Schwander, L., Brabender, M., Mrnjavac, N., Wimmer, J. L. E., Preiner, M., & Martin, W. F. (2023). “Serpentinization as the source of energy, electrons, organics, catalysts, nutrients and pH gradients for the origin of LUCA and life.” Frontiers in Microbiology, 14, 1257597. https://doi.org/10.3389/fmicb.2023.1257597
 
 [7] Jackson, J. B. (2016). “Natural pH Gradients in Hydrothermal Alkali Vents Were Unlikely to Have Played a Role in the Origin of Life.” Journal of Molecular Evolution, 83, 1–11. https://doi.org/10.1007/s00239-016-9756-6
 
