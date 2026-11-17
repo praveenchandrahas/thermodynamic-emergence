@@ -50,3 +50,30 @@ This is a starting bibliography, not a complete or neutral review. The literatur
 3. Compare different origin-of-life frameworks; do not read only thermodynamic-dissipation proposals.
 4. Distinguish entropy-production constraints from claims that a system maximizes entropy production.
 5. Add primary literature on exergy of radiation, autocatalytic networks, prebiotic chemistry and replication when model choices are narrowed.
+
+
+## Local chemical disequilibrium and prebiotic environments
+
+- IUPAC. “Chemical potential.” *Compendium of Chemical Terminology (Gold Book)*, 5th ed., 2025. https://doi.org/10.1351/goldbook.C01032  
+  Defines chemical potential as partial molar Gibbs energy.
+
+- Ianeselli, A. et al. (2023). “Physical non-equilibria for prebiotic nucleic acid chemistry.” *Nature Reviews Physics*, 5, 185–195. https://doi.org/10.1038/s42254-022-00550-3  
+  Reviews possible geochemical settings in which temperature, salt, pH, UV and other physical non-equilibria can affect prebiotic nucleic-acid chemistry.
+
+- Barge, L. M., & Price, R. E. (2022). “Diverse geochemical conditions for prebiotic chemistry in shallow-sea alkaline hydrothermal vents.” *Nature Geoscience*, 15, 976–981. https://doi.org/10.1038/s41561-022-01067-1  
+  Perspective arguing that shallow alkaline hydrothermal systems merit consideration because of variable chemistry, temperature and wet–dry cycles.
+
+- Rodriguez, L. E. et al. (2024). “A Geological and Chemical Context for the Origins of Life on Early Earth.” *Astrobiology*, 24(1 Suppl.). https://doi.org/10.1089/ast.2021.0139  
+  Review of Hadean/Eoarchean geology, geochemical cycles and candidate abiogenesis environments.
+
+- Jackson, J. B. (2016). “Natural pH Gradients in Hydrothermal Alkali Vents Were Unlikely to Have Played a Role in the Origin of Life.” *Journal of Molecular Evolution*, 83, 1–11. https://doi.org/10.1007/s00239-016-9756-6  
+  Critical review questioning the evidence for natural pH gradients across suitable inorganic membranes and the plausibility of prebiotic gradient-harvesting machinery.
+
+- Tutolo, B. M. (2026). “Rethinking the origin of life at seafloor hydrothermal vents.” *Proceedings of the National Academy of Sciences*, 123(36), e2613108123. https://doi.org/10.1073/pnas.2613108123  
+  Recent reassessment arguing that ancient serpentinizing systems may differ substantially from modern Lost City analogues, including the magnitude and location of relevant pH gradients.
+
+- Moldogazieva, N. T. et al. (2026). “Redox chemistry of early Earth and the origin of life.” *Communications Chemistry*, 9, 143. https://doi.org/10.1038/s42004-026-01969-w  
+  Recent review of competing early-Earth redox scenarios and several candidate local environments.
+
+- Krissansen-Totton, J., Bergsman, D. S., & Catling, D. C. (2016). “On Detecting Biospheres from Chemical Thermodynamic Disequilibrium in Planetary Atmospheres.” *Astrobiology*, 16(1), 39–67. https://doi.org/10.1089/ast.2015.1327  
+  Quantifies chemical disequilibrium in planetary atmospheres and demonstrates why aqueous phases and multiphase chemistry can materially change the result.
