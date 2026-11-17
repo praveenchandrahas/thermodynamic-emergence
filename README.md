@@ -51,6 +51,14 @@ The first model is a transparent zero-dimensional stellar–planetary ledger. It
 
 Run locally with python -m pip install -e . followed by python -m thermodynamic_emergence.
 
+## Local chemical disequilibria
+
+The next research layer moves from global radiative accounting to local chemical potentials and reaction opportunities. It includes a thermodynamic framework and a small diagnostic toolkit; it does not assume hydrothermal vents are the origin-of-life setting.
+
+- Local chemical-disequilibrium framework: theory/02-local-chemical-disequilibria.md
+- Toolkit guide: models/local_chemistry/README.md
+- Thermodynamic functions: src/thermodynamic_emergence/chemistry.py
+
 ## Relationship to the earlier simulation
 
 The related repository [dissipative-agency-simulation](https://github.com/praveenchandrahas/dissipative-agency-simulation) investigates evolutionary energy-acquisition strategies in populations of already-existing entities. Its experiments on sensing, movement, competition and agency remain useful as a downstream research line.
