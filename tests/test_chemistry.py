@@ -82,7 +82,7 @@ class LocalChemicalDisequilibriumTests(unittest.TestCase):
             self.reaction,
             positions_m=[0.0, 0.5, 1.0],
             temperatures_K=[280.0, 290.0, 300.0],
-            delta_g0_j_mol=[-10_000.0, -8_000.0, -6_000.0],
+            delta_g0_j_mol=[-10_000.0, -8_000.0, 6_000.0],
             activities_by_species={"A": [1.0, 1.0, 1.0], "B": [0.1, 1.0, 10.0]},
         )
         self.assertEqual(len(result), 3)
