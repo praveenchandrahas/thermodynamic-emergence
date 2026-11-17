@@ -39,6 +39,20 @@ Controls: no internal organization; alternative albedo and atmospheric assumptio
 
 **Exit criterion:** Energy and entropy budgets close to declared tolerances; approximations and omitted processes are documented.
 
+## Phase I-B — Local geochemical disequilibria
+
+**Objective:** Connect the planetary energy-flow boundary conditions to local chemical opportunities without assuming a particular origin-of-life setting.
+
+Work:
+- Compare candidate environments: hydrothermal mixing interfaces, serpentinizing systems, shallow hot springs, wet–dry basins, mineral pores, ice/brine compartments and atmosphere–ocean interfaces.
+- Select a benchmark scenario based on quality of geochemical measurements and thermodynamic data, not conceptual appeal.
+- Assemble endmember temperature, pressure, composition, gas and mineral data with provenance and uncertainty.
+- Perform aqueous speciation and activity corrections before calculating reaction Gibbs energies.
+- Map selected atom- and charge-balanced reaction Gibbs energies along a spatial profile.
+- Separate thermodynamic availability from kinetics, transport, catalyst evidence and gradient lifetime.
+
+**Exit criterion:** A traceable spatial profile of candidate reaction Gibbs energies with uncertainty bounds and clearly stated limitations. No abiogenesis claim is implied.
+
 ## Phase II — Dissipative organization
 
 **Objective:** Investigate whether simple structures can form and persist under sustained flows without starting with organisms.
