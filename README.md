@@ -1,3 +1,5 @@
+> **This repository has moved.** Since 2026-11-23 it lives in [agency-from-gradients/chemistry](https://github.com/praveenchandrahas/agency-from-gradients/tree/main/chemistry), as the S14 line (before the replicator), with its full history. New work happens there. The single hypothesis register is [Hypotheses and falsifiers](https://praveenchandrahas.github.io/agency-from-gradients/docs/hypotheses/). This repository is kept read-only as a record.
+
 # Thermodynamic Emergence
 
 **From cosmic energy flows to dissipative organization, life and intelligence.**
